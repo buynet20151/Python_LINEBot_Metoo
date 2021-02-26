@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，職場的性騷擾往往容易發生，又以男人性騷擾女人的比例較高。",
+        "data": "tag=需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "職場的性騷擾往往容易發生，又以男人性騷擾女人的比例較高。"
+      }
+    ],
+    "text": "職場上男人很少對女人性騷擾？"
+  }
+}

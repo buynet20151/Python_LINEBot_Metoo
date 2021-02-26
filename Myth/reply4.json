@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，絕大多數的性騷擾事件之發生皆非被害者自找的，加害者、受害者與情境都可能是要因。",
+        "data": "tag=需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "絕大多數的性騷擾事件之發生皆非被害者自找的，加害者、受害者與情境都可能是要因。"
+      }
+    ],
+    "text": "遭到性騷擾者通常都是自找的？"
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，女人並不易擺脫男人的性騷擾。主要理由是：男人的力量與地位通常大於女人，致使女人的抗拒需付出相當大的代價。",
+        "data": "tag=需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "沒錯，女人並不易擺脫男人的性騷擾。主要理由是：男人的力量與地位通常大於女人，致使女人的抗拒需付出相當大的代價。"
+      }
+    ],
+    "text": "（一）女人有能力輕易擺脫男人的性騷擾?"
+  }
+}
+

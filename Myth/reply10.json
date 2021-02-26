@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，這是一種指責性侵害受害者之觀點，而將所有責任歸咎於受害者的穿著。",
+        "data": "tag=很需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "這是一種指責性侵害受害者之觀點，而將所有責任歸咎於受害者的穿著。"
+      }
+    ],
+    "text": "性侵害是因為女人穿著太暴露？"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，這並非男性無法控制情慾的藉口，而是男性放縱自我情慾與不尊重女性自主權之結果。",
+        "data": "tag=很需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "這並非男性無法控制情慾的藉口，而是男性放縱自我情慾與不尊重女性自主權之結果。"
+      }
+    ],
+    "text": "性侵害是因為男方情不自禁？"
+  }
+}

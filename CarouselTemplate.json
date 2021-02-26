@@ -1,0 +1,60 @@
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "imageSize": "cover",
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://cdn.bella.tw/files/MW-GL403_me_too_20180622122649_ZH.jpg",
+        "title": "美國#MeToo事件",
+        "text": "好萊塢",
+        "actions": [
+          {
+            "type": "message",
+            "label": "點我查看",
+            "text": "https://www.bbc.com/zhongwen/trad/world-41563536"
+          }
+        ],
+        "imageBackgroundColor": null
+      },
+      {
+        "thumbnailImageUrl": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2019/12/18/20191218-013032_U1085_M577870_899e.jpg",
+        "title": "日本#MeToo事件",
+        "text": "伊藤詩織",
+        "actions": [
+          {
+            "type": "message",
+            "label": "點我查看",
+            "text": "https://womany.net/read/article/16972?ref=s_a_relarticles"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://n.sinaimg.cn/news/1_img/cfp/c4b46437/w1024h633/20180309/ZHE_-fxpwyhw1874791.jpg",
+        "title": "韓國#MeToo事件",
+        "text": "韓國女性",
+        "actions": [
+          {
+            "type": "message",
+            "label": "點我查看",
+            "text": "https://womany.net/read/article/16410"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://womany.net/cdn-cgi/image/w=800,fit=scale-down,f=auto/https://castle.womany.net/images/content/pictures/76947/womany_xing_qin_2_1534844981-30912-3502.jpg",
+        "title": "男性#MeToo事件",
+        "text": "男性",
+        "actions": [
+          {
+            "type": "message",
+            "label": "點我查看",
+            "text": "https://womany.net/read/article/16562"
+          }
+        ],
+        "imageBackgroundColor": null
+      }
+    ]
+  }
+}

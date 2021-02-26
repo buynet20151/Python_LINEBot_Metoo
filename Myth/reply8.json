@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，性侵害的強暴犯也可能是自己熟悉的人。",
+        "data": "tag=很需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "性侵害的強暴犯也可能是自己熟悉的人。"
+      }
+    ],
+    "text": "性侵害往往僅限於陌生人？"
+  }
+}

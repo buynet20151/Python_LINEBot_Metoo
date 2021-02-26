@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，這是從男性為中心的角度去詮釋女性應順從之誤解。面對男性的霸王硬上弓，女人務必要勇敢的說不。",
+        "data": "tag=很需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "這是從男性為中心的角度去詮釋女性應順從之誤解。面對男性的霸王硬上弓，女人務必要勇敢的說不。"
+      }
+    ],
+    "text": "性侵害是因為女人未強力反抗？"
+  }
+}

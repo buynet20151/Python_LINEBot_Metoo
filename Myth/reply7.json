@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，性侵害事件也可能發生在市內，特別是自己的家中。",
+        "data": "tag=很需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "性侵害事件也可能發生在市內，特別是自己的家中。"
+      }
+    ],
+    "text": "性侵害事件通常發生在暗巷裡？"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "template",
+  "altText": "this is a confirm template",
+  "template": {
+    "type": "confirm",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "是",
+        "text": "其實，男人被性騷擾後也會出現不良影響。總之，不管男人或女人，都沒有人願意讓自己的身體遭到侵犯。",
+        "data": "tag=需要性平教育"
+      },
+      {
+        "type": "message",
+        "label": "否",
+        "text": "男人被性騷擾後也會出現不良影響。不管男人或女人，都沒有人願意讓自己的身體遭到侵犯。"
+      }
+    ],
+    "text": "男人被性騷擾不會有不良影響？"
+  }
+}
